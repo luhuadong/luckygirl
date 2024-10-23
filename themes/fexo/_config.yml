@@ -28,9 +28,15 @@ home_nav:
   - name: 小红书
     url: https://www.xiaohongshu.com/user/profile/5af4524311be105acb8c3d64
     target_blank: true
-  # - name: YouTube
-  #   url: https://www.youtube.com/@user-rj3ur8fu8v
-  #   target_blank: true
+  - name: 抖音
+    url: https://www.douyin.com/user/MS4wLjABAAAANaVOUlAqMmQWz9KdxNJjRcFhoNx5X2tJ_6wQwLBTFqWkLIIqVH9rFuMRegZ2ZKFJ
+    target_blank: true
+  - name: YouTube
+    url: https://www.youtube.com/@yunqi95
+    target_blank: true
+  - name: X
+    url: https://x.com/yunqivegan
+    target_blank: true
 
 # config page nav
 page_nav:
